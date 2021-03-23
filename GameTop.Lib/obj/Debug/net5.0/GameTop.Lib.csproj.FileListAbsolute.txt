@@ -1,0 +1,15 @@
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.csprojAssemblyReference.cache
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.AssemblyInfoInputs.cache
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.AssemblyInfo.cs
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\bin\Debug\net5.0\GameTop.Lib.deps.json
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\bin\Debug\net5.0\GameTop.Lib.dll
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\bin\Debug\net5.0\ref\GameTop.Lib.dll
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\bin\Debug\net5.0\GameTop.Lib.pdb
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\bin\Debug\net5.0\Gametop.interface.dll
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\bin\Debug\net5.0\Gametop.interface.pdb
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.csproj.CopyComplete
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.dll
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\ref\GameTop.Lib.dll
+C:\Users\gabriel.piazza\Desktop\projetos\consolecore\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.pdb
